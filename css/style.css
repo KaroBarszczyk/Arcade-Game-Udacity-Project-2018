@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    
+
+}
+
+h2 {
+	display: inline-block;
+	width: 20%;
+
+
+	
+}
+
+.score{
+	text-align: right;
+	margin-left: 23%;
+	
+}
+.lifeNum{
+	margin-right: 30%;
+	
+	
+}
+
