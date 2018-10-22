@@ -29,7 +29,7 @@ let Enemy = function(x, y, speed) {
     // The image/sprite for our enemies, this uses
     // a helper we've provided to easily load images
     this.sprite = "images/enemy-bug.png";
-    //"https://res.cloudinary.com/karamba/image/upload/v1527689024/arcadeGame/enemy-bug.png";
+ 
 };
 
 // Update the enemy's position, required method for game
