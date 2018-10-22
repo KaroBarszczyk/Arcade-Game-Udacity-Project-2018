@@ -20,4 +20,4 @@ The game was created for Udacity and Google Front-End Web Developer Nanodegree P
 2. Player can moves left, right, up and down with using arrow keys. 
 
 
-#Enjoy the game !
+## Enjoy the game !
